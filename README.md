@@ -8,12 +8,5 @@ Steps to install. :
 
 3. After installing you must write: Password Name, and you can clicked (0-9, a-z, A-Z, !@#$%&)
 
-4. Bellow you can see video what you must do:
-
-
-
-
-
-
 - [Download.exe](https://github.com/NiceTryJony/GenPass/blob/main/dist/generate_password.exe)
 - [Download.zip](https://github.com/NiceTryJony/GenPass/blob/main/dist/generate_password.zip)
