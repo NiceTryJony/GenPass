@@ -16,4 +16,4 @@ Steps to install. :
 
 
 - [Download.exe](https://github.com/NiceTryJony/GenPass/blob/main/dist/generate_password.exe)
-- [Download.zip]
+- [Download.zip](https://github.com/NiceTryJony/GenPass/blob/main/dist/generate_password.zip)
