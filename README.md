@@ -51,6 +51,7 @@ Follow the installation instructions.
 Usage
 
 1. Launch the application after installation.
+
 2.Enter a name for your password.
   Select the types of characters and the password length.
   Save the generated password to the specified directory.
@@ -58,8 +59,10 @@ Usage
 3.Example Usage
   Run the program:
       ```python main.py```
+      
 4.Choose characters:
     ***Numbers, letters, and special characters.
+    
 5.Save the generated password:
     ***The password will be automatically saved in the chosen folder.
 
